@@ -1,4 +1,5 @@
 # README
+**Note**: The project in the current state does not build.
 
 This current guide uses the crate `bootimage` - I'm going to try to update it to use either `bootloader` or `uefi-rs`.
 
